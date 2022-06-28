@@ -2,7 +2,7 @@
   "name": "react-library",
   "version": "1.0.0",
   "author": "react-library",
-  "homepage": "https://github.com/BaekDorazi/react-library.git",
+  "homepage": "https://github.com/BaekDorazi/react-library",
   "description": "react-library",
   "main": "dist/index.js",
   "license": "MIT",
