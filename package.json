@@ -1,0 +1,17 @@
+{
+  "name": "react-library",
+  "version": "1.0.0",
+  "author": "custom-modules",
+  "homepage": "http://yona.imtrial.com/qorehgud/baek-react-library",
+  "description": "custom-modules",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src/index.js -d dist"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.1",
+    "@babel/preset-env": "^7.10.1"
+  }
+}
