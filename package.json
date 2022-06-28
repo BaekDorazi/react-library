@@ -2,7 +2,7 @@
   "name": "react-library",
   "version": "1.0.0",
   "author": "custom-modules",
-  "homepage": "http://yona.imtrial.com/qorehgud/baek-react-library",
+  "homepage": "git+https://github.com/BaekDorazi/react-library.git",
   "description": "custom-modules",
   "main": "dist/index.js",
   "license": "MIT",
